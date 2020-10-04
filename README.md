@@ -3,7 +3,6 @@
 Simply put a .swc file named reconst.swc in the data folder and run the code.
 
 ![example reconstruction visualization](/gitReadmeFiles/slice15_L11fromwww.neutracing.comslashdownload.png)
-
 Slice15_L11 from https://www.neutracing.com/download/ - automatic! partially reconstructed to show various features of the program
 
 Neutube and ShuTu are great free programs to semiautomatically create .swc neuron reconstructions from scanned 3D volume data.
